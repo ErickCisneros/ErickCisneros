@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **NgRx**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ErickCisneros](https://github.com/ErickCisneros)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/ErickCisneros)
 
 - 💬 Ask me about **Angular**
 
