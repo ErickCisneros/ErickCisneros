@@ -50,13 +50,9 @@
   </p>
 </div>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=erickcisneros&show_icons=true&theme=dark" width="400">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=erickcisneros&theme=dark&hide_border=true" width="400">
+</p>
 
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
-
-###
+Thanks for visiting! ✨ Let's build something awesome together.
